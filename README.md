@@ -16,7 +16,7 @@ In the next sections, more complete descriptions of each functionality will be c
 
 ### Water Consumption
 **Calculation method:**
-Base = weight(kg) x 0.035
+Base = weight(kg) x 0.035  
 Sedentary: base
 Lightly Active: base + 0.4L
 Moderately Active: base + 0.65L
