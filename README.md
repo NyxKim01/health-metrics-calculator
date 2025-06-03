@@ -70,7 +70,7 @@ Normally for weight loss/gain this method involves adjusting TDEE by 10-20%. In 
 - pytest == 8.3.5
 
 ## Usage
-1. Run the program directly: `python project.py`
+1. Run the program directly: `python main.py`
 2. Follow the interactive prompts to enter your:
  -Age (whole years)
  -Biological sex (male/female)
